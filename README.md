@@ -1,1 +1,1 @@
-# A truly web-app basic on gradio and comfyui.
+# Build your web-app basic on gradio and comfyui.
